@@ -1,0 +1,43 @@
+MY PROJECTS  -*- mode: org; fill-column: 78 -*-
+
+* Tasks
+#+CATEGORY: Tasks
+* Sample project milestone
+#+CATEGORY: MilestoneX
+  DEADLINE: 
+
+
+* School
+  #+CATEGORY: School
+
+** TODO finish master thesis
+   SCHEDULED: <2019-03-19 mar>
+   [2019-03-15 ven]
+** TODO write the maths in the master thesis
+   [2019-03-15 ven]
+* Health
+#+CATEGORY: Health
+** TODO Do some kind of cake
+   [2019-03-15 ven]
+* Finances
+#+CATEGORY: Finance
+* Miscellaneous
+#+CATEGORY: Misc
+** TODO Go home
+   [2019-03-15 ven]
+
+
+* Anniversaries and Holidays  
+#+CATEGORY: Holiday
+%%(org-calendar-holiday)
+%%(diary-date 10 25 t) Grenada's Thanksgiving
+#+CATEGORY: Birthday
+%%(diary-anniversary  1 1 1960) Someone is %d years old
+
+
+#+STARTUP: content
+#+STARTUP: lognotestate
+#+SEQ_TODO: TODO STARTED WAITING DELEGATED APPT | DONE DEFERRED CANCELLED
+#+TAGS: { SCHOOL(s) WORK(w) } CALL(c) ERRAND(e)
+
+

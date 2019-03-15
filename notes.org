@@ -1,0 +1,31 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+* This is my to-do list
+
+  Welcome, and thanks for trying out Org mode. Making outlines in
+  Org is very simple. It is just text! Just start
+
+  1. I really like the rog mode it's simple to use
+     1. C'est incroyable je peux prendre des notes comme un champion.
+  2. Il faut vraiment *compiler l'ensemble*
+  3. =code c'est quoi la différence=
+  4. ~verbatim c'est pas drole~
+  5. +strike-throough+
+     1. xc
+	1. 
+	2. 
+  +sds sdf
+  
+* THIS is a new headline.
+
+  TODO Write tour master thesis
+** 
+** Just a To Do list
+** 
+* This is a headline, it starts with one or more stars
+  A heading has one star, a sub-heading two, etc.
+* Working with lists
+** Moving around in our outline
+** Moving around headlines
+ 
